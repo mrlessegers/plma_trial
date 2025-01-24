@@ -3,3 +3,7 @@ date,Date,,,Date
 creator,Creator,,,
 subject,,true
 location,,true
+subject_admin,Administration,,Administration
+subject_person,Personality/Orgs,,Personality/Orgs
+subject_place,Places,,Places
+event_type,Event Type,,Event Type
