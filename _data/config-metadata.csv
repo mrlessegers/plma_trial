@@ -2,6 +2,7 @@ field,display_name,browse_link,external_link
 identifier,Identifier,,
 title,Title,
 creator,Creator,
+custodian,Custodian,
 date,Date Created,
 type,Type,
 format,Format,
