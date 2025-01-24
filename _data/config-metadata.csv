@@ -14,7 +14,7 @@ language,Language,,
 subject,Subject (Main Theme),true
 subject_admin, Subject (Administration),true
 subject_person, Subject (Personality/Orgs),true
-subject_place, Subject (Place), true
+subject_place, Subject (Place),true
 source,Source Collection,
 link, Related Links,,true
 rights,Rights,
