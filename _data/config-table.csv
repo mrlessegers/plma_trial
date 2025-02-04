@@ -1,5 +1,8 @@
 field,display_name
+identifier,Identifier
 title,Title
 date,Date
 description,Description
 subject,Subjects
+subject_person,Persons/Orgs
+subject_place,Places
